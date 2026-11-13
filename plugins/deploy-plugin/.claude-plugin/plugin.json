@@ -1,7 +1,7 @@
 {
     "name": "deploy-plugin",
-    "description": "Deployment commands for this project (GitHub Pages today, more targets like Vercel can be added as additional commands/*.md files)",
-    "version": "1.0.0",
+    "description": "Deployment commands for this project: GitHub Pages (deploy_github_page) and Vercel (deploy_vercel)",
+    "version": "1.0.1",
     "author": {
         "name": "svuncle"
     }
