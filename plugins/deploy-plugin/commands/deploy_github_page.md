@@ -1,3 +1,6 @@
+---
+description: 建置寶藏遊戲並部署到 GitHub Pages，自動處理 gh 登入、repository 建立、remote 設定與 Vite base path
+---
 # Deploy to GitHub Pages
 
 This command deploys the treasure hunt game to GitHub Pages with automatic repository setup and authentication handling.

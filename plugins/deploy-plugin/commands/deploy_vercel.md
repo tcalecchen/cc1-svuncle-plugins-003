@@ -1,3 +1,6 @@
+---
+description: 建置寶藏遊戲並用 Vercel CLI 部署到 production
+---
 # Deploy to Vercel
 
 This command deploys the treasure hunting game to Vercel for public access.
