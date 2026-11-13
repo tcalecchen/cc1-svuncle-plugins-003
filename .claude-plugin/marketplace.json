@@ -1,0 +1,14 @@
+{
+    "name": "svuncle-plugins-003",
+    "description": "Shared Claude Code plugins for the svuncle team",
+    "owner": {
+        "name": "svuncle"
+    },
+    "plugins": [
+        {
+            "name": "deploy-plugin",
+            "source": "./plugins/deploy-plugin",
+            "description": "Deploy to GitHub Pages / Vercel"
+        }
+    ]
+}
